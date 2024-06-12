@@ -1,0 +1,4 @@
+*.jsonl
+*.part
+db.db
+venv/*
